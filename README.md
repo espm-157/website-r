@@ -1,4 +1,4 @@
-# website
+# ESPM-157: Data Science in Global Change Ecology. Fall 2023
 
 The course website is automatically generated using the [blogdown](https://github.com/rstudio/blogdown) R package:
 
